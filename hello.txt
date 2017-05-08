@@ -1,2 +1,5 @@
 Tengo hambre
+
+No hay comida !
+
 Asi que aun hay hambre
